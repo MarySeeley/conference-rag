@@ -115,6 +115,7 @@ RETURNS TABLE (
   similarity float
 )
 LANGUAGE sql STABLE
+SET statement_timeout TO '30s'
 AS $$
   SELECT
     sentence_embeddings.id,
@@ -125,7 +126,7 @@ AS $$
     1 - (sentence_embeddings.embedding <=> query_embedding) as similarity
   FROM sentence_embeddings
   ORDER BY sentence_embeddings.embedding <=> query_embedding
-  LIMIT match_count;
+  LIMIT LEAST(GREATEST(match_count, 1), 100);
 $$;
 """
 
