@@ -1,0 +1,28 @@
+1. 
+The anon key is used to connect the project to Supabase, so it has to be public so it can access the project. It doesn't hold any sensitive data so it doesn't need to be in the git ignore.
+If someone got the service key they would have full access to the project because it bypasses RLS. 
+The edge function is the middle man between the browser and my OpenAI Key. That way my key is never sent directly to the browser.
+RLS makes sure the user is authorized to reach the database. This is enforced by PostgreSQL so if someone goes straight to the backend they still can't get in.
+
+2.
+If we called OpenAI from the browser our secret would be out becasue nothing is private in the browser.
+The flow is the browser send the quesiton to the edge function. The edge function validates the JWT of the user and gets the OpenAI key from the server. It sends the qustion with context and limits to OpenAI and then sends that answer back without the key.
+JWT makes sure that the user is authenticated before making a request.
+This applies to any application that deals with sensitive data you don't want to be sent through the browser.
+
+3.
+Keyword search is better when you know the exact phrasing of the word and semantic search is for when things are related using embedded vectors.
+If you want to look up talks about flying (from Uchtdorf) keyword search would pick up "flight" but it might miss planes or stories about flying. Semantic search would have planes rated highly for flying.
+Semantic search understands meaning through vectors and ranking them from 0 to 1 based on how related it is to what you are searching.
+
+4.
+RAG is good for changing information you are using, you need to add or remove documentation, answers are grounded in specific documents, and more, but the bad part is it can choose weak or irrelevant sources, limited by context window, and retrieval and generation add latency.
+Fine-tuning can be used with a consistent writing style, a special output format, or if you want to train the responses for repeated instrunctions to be better. The bad part is you need good example prompts and responses so you can train it to respond the way you want. It also cost time and money to train a model, also when things change you have to retrain.
+RAG is good for conference talks because we add to the database every six months so it isn't to difficult with RAG to add those.
+Fine-tuning could be used well with buisness rules. You can train the model to follow the standards the company sets and how to respond. 
+
+5.
+My AI assistant helped me step through the different steps of the project. It asked me questions after doing a step.
+I used Codex this time and I felt it was much better at explaining things then the Github Copilot was for last project.
+At one point it wanted to implement HNSW which could be nice, but it was running into lots of issues and I had almost hit my 6 hours so I guided it back to the original project.
+I learned how helpful it is to learn, also to not be afraid of asking it if what it is suggesting is correct.
