@@ -84,6 +84,11 @@ const ragBtn = document.getElementById('rag-btn');
 const ragResults = document.getElementById('rag-results');
 const ragStatus = document.getElementById('rag-status');
 
+const speakerSelect = document.getElementById('speaker-select');
+const themesBtn = document.getElementById('themes-btn');
+const themesResults = document.getElementById('themes-results');
+let speakerThemeData = null;
+
 // ============================================
 // SETUP BANNER DETECTION
 // ============================================
@@ -286,6 +291,70 @@ function showApp(user) {
     if (userEmailSpan) userEmailSpan.textContent = user.email;
     // Check search readiness when user logs in
     checkSearchReadiness();
+    loadSpeakerThemes();
+}
+
+// ============================================
+// CUSTOM FEATURE: SPEAKER THEME EXPLORER
+// ============================================
+
+async function loadSpeakerThemes() {
+    if (!speakerSelect || speakerThemeData) return;
+
+    try {
+        const response = await fetch('speaker-themes.json');
+        if (!response.ok) throw new Error('Theme data could not be loaded');
+
+        speakerThemeData = await response.json();
+        speakerSelect.innerHTML = '<option value="">Choose a speaker...</option>';
+        speakerThemeData.speakers.forEach((speaker, index) => {
+            const option = document.createElement('option');
+            option.value = String(index);
+            option.textContent = `${speaker.name} (${speaker.talk_count} talks)`;
+            speakerSelect.appendChild(option);
+        });
+        speakerSelect.disabled = false;
+        if (themesBtn) themesBtn.disabled = false;
+    } catch (error) {
+        if (themesResults) {
+            themesResults.innerHTML = `<div class="result-error">${escapeHtml(error.message)}</div>`;
+        }
+    }
+}
+
+function showSpeakerThemes() {
+    if (!speakerThemeData || !speakerSelect || !themesResults) return;
+
+    const selectedIndex = Number(speakerSelect.value);
+    if (speakerSelect.value === '' || !Number.isInteger(selectedIndex)) {
+        themesResults.innerHTML = '<div class="no-results">Choose a speaker to explore.</div>';
+        return;
+    }
+
+    const speaker = speakerThemeData.speakers[selectedIndex];
+    if (!speaker) return;
+
+    const themeCards = speaker.themes.map((theme, index) => {
+        const examples = theme.examples.map(example =>
+            `<a href="${escapeHtml(example.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(example.title)}</a>`
+        ).join(' · ');
+
+        return `<div class="theme-card">
+            <div class="theme-rank">${index + 1}</div>
+            <div class="theme-details">
+                <div class="theme-term">${escapeHtml(theme.term)}</div>
+                <div class="theme-count">${theme.mentions} mentions across ${theme.talk_count} talks</div>
+                <div class="theme-examples">Examples: ${examples}</div>
+            </div>
+        </div>`;
+    }).join('');
+
+    themesResults.innerHTML = `<div class="themes-summary">
+        <strong>${escapeHtml(speaker.name)}</strong>
+        <span>Analyzed ${speaker.talk_count} talks</span>
+    </div>
+    <div class="themes-grid">${themeCards}</div>
+    <p class="themes-method">Ranked with TF-IDF and recurring use across multiple talks.</p>`;
 }
 
 function showMessage(text, type) {
@@ -751,6 +820,10 @@ if (ragBtn) ragBtn.addEventListener('click', askQuestion);
 if (ragInput) ragInput.addEventListener('keypress', (e) => {
     if (e.key === 'Enter') askQuestion();
 });
+
+// Speaker Theme Explorer
+if (themesBtn) themesBtn.addEventListener('click', showSpeakerThemes);
+if (speakerSelect) speakerSelect.addEventListener('change', showSpeakerThemes);
 
 // ============================================
 // DEPLOY TIMESTAMP

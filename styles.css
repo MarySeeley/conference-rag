@@ -327,7 +327,8 @@ button {
 input[type="email"],
 input[type="text"],
 input[type="password"],
-input[type="number"] {
+input[type="number"],
+select {
     width: 100%;
     padding: var(--spacing-sm);
     background: var(--surface);
@@ -339,7 +340,8 @@ input[type="number"] {
     transition: all 0.2s ease;
 }
 
-input:focus {
+input:focus,
+select:focus {
     outline: none;
     border-color: var(--primary);
     box-shadow: 0 0 0 3px rgba(62, 207, 142, 0.1);
@@ -526,7 +528,12 @@ input:focus {
     flex: 1;
 }
 
+.panel-input select {
+    flex: 1;
+}
+
 .panel-input input:disabled,
+.panel-input select:disabled,
 .panel-input button:disabled {
     opacity: 0.4;
     cursor: not-allowed;
@@ -679,6 +686,69 @@ input:focus {
     font-size: 0.875rem;
 }
 
+/* Speaker Theme Explorer */
+.themes-summary {
+    display: flex;
+    justify-content: space-between;
+    gap: var(--spacing-sm);
+    margin-bottom: var(--spacing-sm);
+    color: var(--text-muted);
+}
+
+.themes-summary strong {
+    color: var(--primary);
+}
+
+.themes-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--spacing-sm);
+}
+
+.theme-card {
+    display: flex;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-sm);
+    background: var(--background);
+    border: 1px solid var(--surface-light);
+    border-radius: var(--radius-md);
+}
+
+.theme-rank {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    flex-shrink: 0;
+    border-radius: 50%;
+    background: rgba(62, 207, 142, 0.15);
+    color: var(--primary);
+    font-weight: 700;
+}
+
+.theme-term {
+    color: var(--text);
+    font-size: 1.05rem;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.theme-count,
+.theme-examples,
+.themes-method {
+    color: var(--text-muted);
+    font-size: 0.8rem;
+}
+
+.theme-examples a {
+    color: var(--primary);
+}
+
+.themes-method {
+    margin-top: var(--spacing-sm);
+}
+
 @keyframes slideIn {
     from {
         opacity: 0;
@@ -760,5 +830,9 @@ input:focus {
 
     .panel-input {
         flex-direction: column;
+    }
+
+    .themes-grid {
+        grid-template-columns: 1fr;
     }
 }

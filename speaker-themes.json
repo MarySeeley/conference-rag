@@ -1,0 +1,3750 @@
+{
+  "source_talk_count": 426,
+  "method": "TF-IDF weighted by recurring use across a speaker's talks",
+  "speakers": [
+    {
+      "name": "Bishop Gérald Caussé",
+      "talk_count": 3,
+      "themes": [
+        {
+          "term": "france",
+          "mentions": 4,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Compensating Blessings",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/44causse?lang=eng"
+            },
+            {
+              "title": "A Living Witness of the Living Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/25causse?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "paris",
+          "mentions": 3,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "A Living Witness of the Living Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/25causse?lang=eng"
+            },
+            {
+              "title": "Compensating Blessings",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/44causse?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "extends",
+          "mentions": 3,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "A Living Witness of the Living Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/25causse?lang=eng"
+            },
+            {
+              "title": "Compensating Blessings",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/44causse?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "resources",
+          "mentions": 6,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Our Earthly Stewardship",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/31causse?lang=eng"
+            },
+            {
+              "title": "Compensating Blessings",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/44causse?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "duties",
+          "mentions": 3,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Our Earthly Stewardship",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/31causse?lang=eng"
+            },
+            {
+              "title": "Compensating Blessings",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/44causse?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "accountable",
+          "mentions": 3,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Our Earthly Stewardship",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/31causse?lang=eng"
+            },
+            {
+              "title": "Compensating Blessings",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/44causse?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "diligence",
+          "mentions": 3,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Compensating Blessings",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/44causse?lang=eng"
+            },
+            {
+              "title": "A Living Witness of the Living Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/25causse?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "blessings",
+          "mentions": 18,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Compensating Blessings",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/44causse?lang=eng"
+            },
+            {
+              "title": "A Living Witness of the Living Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/25causse?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "inherent",
+          "mentions": 2,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "A Living Witness of the Living Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/25causse?lang=eng"
+            },
+            {
+              "title": "Compensating Blessings",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/44causse?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "contrast",
+          "mentions": 3,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "A Living Witness of the Living Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/25causse?lang=eng"
+            },
+            {
+              "title": "Our Earthly Stewardship",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/31causse?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elder Carlos A. Godoy",
+      "talk_count": 3,
+      "themes": [
+        {
+          "term": "chapel",
+          "mentions": 5,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "I Believe in Angels",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/44godoy?lang=eng"
+            },
+            {
+              "title": "Smiling Faces and Grateful Hearts",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/54godoy?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "picture",
+          "mentions": 6,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "I Believe in Angels",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/44godoy?lang=eng"
+            },
+            {
+              "title": "For the Sake of Your Posterity",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/14godoy?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "sunday",
+          "mentions": 12,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Smiling Faces and Grateful Hearts",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/54godoy?lang=eng"
+            },
+            {
+              "title": "For the Sake of Your Posterity",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/14godoy?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "driver",
+          "mentions": 3,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "For the Sake of Your Posterity",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/14godoy?lang=eng"
+            },
+            {
+              "title": "Smiling Faces and Grateful Hearts",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/54godoy?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "risk",
+          "mentions": 4,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "For the Sake of Your Posterity",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/14godoy?lang=eng"
+            },
+            {
+              "title": "I Believe in Angels",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/44godoy?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "members",
+          "mentions": 17,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "For the Sake of Your Posterity",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/14godoy?lang=eng"
+            },
+            {
+              "title": "Smiling Faces and Grateful Hearts",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/54godoy?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "coincidence",
+          "mentions": 2,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "For the Sake of Your Posterity",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/14godoy?lang=eng"
+            },
+            {
+              "title": "I Believe in Angels",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/44godoy?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "usual",
+          "mentions": 2,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "For the Sake of Your Posterity",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/14godoy?lang=eng"
+            },
+            {
+              "title": "Smiling Faces and Grateful Hearts",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/54godoy?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "active",
+          "mentions": 4,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "For the Sake of Your Posterity",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/14godoy?lang=eng"
+            },
+            {
+              "title": "I Believe in Angels",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/44godoy?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "going",
+          "mentions": 6,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "For the Sake of Your Posterity",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/14godoy?lang=eng"
+            },
+            {
+              "title": "I Believe in Angels",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/44godoy?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elder D. Todd Christofferson",
+      "talk_count": 12,
+      "themes": [
+        {
+          "term": "zion",
+          "mentions": 11,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "One in Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/41christofferson?lang=eng"
+            },
+            {
+              "title": "The Doctrine of Belonging",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/28christofferson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "worship",
+          "mentions": 46,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Worship",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/35christofferson?lang=eng"
+            },
+            {
+              "title": "Burying Our Weapons of Rebellion",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/21christofferson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "yielding",
+          "mentions": 6,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "The Testimony of Jesus",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/51christofferson?lang=eng"
+            },
+            {
+              "title": "Burying Our Weapons of Rebellion",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/21christofferson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "redemption",
+          "mentions": 14,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "The Love of God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=eng"
+            },
+            {
+              "title": "Sharing the Message of the Restoration and the Resurrection",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/56christofferson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "resurrection",
+          "mentions": 18,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "One in Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/41christofferson?lang=eng"
+            },
+            {
+              "title": "Sharing the Message of the Restoration and the Resurrection",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/56christofferson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "peoples",
+          "mentions": 4,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "Look to God and Live",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/45christofferson?lang=eng"
+            },
+            {
+              "title": "One in Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/41christofferson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "highest",
+          "mentions": 8,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "The Sealing Power",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/15christofferson?lang=eng"
+            },
+            {
+              "title": "Look to God and Live",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/45christofferson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "celestial",
+          "mentions": 12,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "The Testimony of Jesus",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/51christofferson?lang=eng"
+            },
+            {
+              "title": "Why the Covenant Path",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/54christofferson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "sin",
+          "mentions": 20,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "The Love of God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=eng"
+            },
+            {
+              "title": "Burying Our Weapons of Rebellion",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/21christofferson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "grace",
+          "mentions": 14,
+          "talk_count": 10,
+          "examples": [
+            {
+              "title": "The Testimony of Jesus",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/51christofferson?lang=eng"
+            },
+            {
+              "title": "The Doctrine of Belonging",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/28christofferson?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elder Dale G. Renlund",
+      "talk_count": 12,
+      "themes": [
+        {
+          "term": "finland",
+          "mentions": 12,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "The Peace of Christ Abolishes Enmity",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/43renlund?lang=eng"
+            },
+            {
+              "title": "Accessing God’s Power through Covenants",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/23renlund?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "judgmental",
+          "mentions": 7,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Do Justly, Love Mercy, and Walk Humbly with God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/55renlund?lang=eng"
+            },
+            {
+              "title": "Taking on the Name of Jesus Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/55renlund?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "unfairness",
+          "mentions": 29,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Infuriating Unfairness",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/25renlund?lang=eng"
+            },
+            {
+              "title": "Consider the Goodness and Greatness of God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/26renlund?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "stumble",
+          "mentions": 6,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Accessing God’s Power through Covenants",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/23renlund?lang=eng"
+            },
+            {
+              "title": "Do Justly, Love Mercy, and Walk Humbly with God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/55renlund?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "ruth",
+          "mentions": 13,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Infuriating Unfairness",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/25renlund?lang=eng"
+            },
+            {
+              "title": "The Powerful, Virtuous Cycle of the Doctrine of Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/43renlund?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "baptismal",
+          "mentions": 10,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Accessing God’s Power through Covenants",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/23renlund?lang=eng"
+            },
+            {
+              "title": "Jesus Christ Is the Treasure",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/57renlund?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "mixed",
+          "mentions": 4,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "The Peace of Christ Abolishes Enmity",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/43renlund?lang=eng"
+            },
+            {
+              "title": "Personal Preparation to Meet the Savior",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/25renlund?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "individuals",
+          "mentions": 12,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "Do Justly, Love Mercy, and Walk Humbly with God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/55renlund?lang=eng"
+            },
+            {
+              "title": "Infuriating Unfairness",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/25renlund?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "vulnerable",
+          "mentions": 6,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Personal Preparation to Meet the Savior",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/25renlund?lang=eng"
+            },
+            {
+              "title": "Infuriating Unfairness",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/25renlund?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "baptism",
+          "mentions": 19,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "The Powerful, Virtuous Cycle of the Doctrine of Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/43renlund?lang=eng"
+            },
+            {
+              "title": "Accessing God’s Power through Covenants",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/23renlund?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elder David A. Bednar",
+      "talk_count": 11,
+      "themes": [
+        {
+          "term": "moral",
+          "mentions": 16,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "They Are Their Own Judges",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/51bednar?lang=eng"
+            },
+            {
+              "title": "Put On Thy Strength, O Zion",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/46bednar?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "instruction",
+          "mentions": 10,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "“The Principles of My Gospel”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/56bednar?lang=eng"
+            },
+            {
+              "title": "With the Power of God in Great Glory",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/22bednar?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "instructive",
+          "mentions": 7,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "In the Space of Not Many Years",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/35bednar?lang=eng"
+            },
+            {
+              "title": "But We Heeded Them Not",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/14bednar?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "joyfully",
+          "mentions": 11,
+          "talk_count": 10,
+          "examples": [
+            {
+              "title": "“Let This House Be Built unto My Name”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/44bednar?lang=eng"
+            },
+            {
+              "title": "In the Space of Not Many Years",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/35bednar?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "ordinances",
+          "mentions": 43,
+          "talk_count": 9,
+          "examples": [
+            {
+              "title": "“Let This House Be Built unto My Name”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/44bednar?lang=eng"
+            },
+            {
+              "title": "With the Power of God in Great Glory",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/22bednar?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "steadfast",
+          "mentions": 8,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "“Be Still, and Know That I Am God”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/21bednar?lang=eng"
+            },
+            {
+              "title": "But We Heeded Them Not",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/14bednar?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "benson",
+          "mentions": 9,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "In the Space of Not Many Years",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/35bednar?lang=eng"
+            },
+            {
+              "title": "“Let This House Be Built unto My Name”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/44bednar?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "described",
+          "mentions": 14,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "“Abide in Me, and I in You; Therefore Walk with Me”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/57bednar?lang=eng"
+            },
+            {
+              "title": "But We Heeded Them Not",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/14bednar?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "thus",
+          "mentions": 15,
+          "talk_count": 9,
+          "examples": [
+            {
+              "title": "Put On Thy Strength, O Zion",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/46bednar?lang=eng"
+            },
+            {
+              "title": "In the Space of Not Many Years",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/35bednar?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "elijah",
+          "mentions": 16,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "“Let This House Be Built unto My Name”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/44bednar?lang=eng"
+            },
+            {
+              "title": "With the Power of God in Great Glory",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/22bednar?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elder Dieter F. Uchtdorf",
+      "talk_count": 12,
+      "themes": [
+        {
+          "term": "flying",
+          "mentions": 11,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "A Higher Joy",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/35uchtdorf?lang=eng"
+            },
+            {
+              "title": "Do Your Part with All Your Heart",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/16uchtdorf?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "flight",
+          "mentions": 14,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Do Your Part with All Your Heart",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/16uchtdorf?lang=eng"
+            },
+            {
+              "title": "A Higher Joy",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/35uchtdorf?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "aircraft",
+          "mentions": 5,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "Our Heartfelt All",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/57uchtdorf?lang=eng"
+            },
+            {
+              "title": "Come and Belong",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/54uchtdorf?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "harriet",
+          "mentions": 4,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "Come and Belong",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/54uchtdorf?lang=eng"
+            },
+            {
+              "title": "God Will Do Something Unimaginable",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/28uchtdorf?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "unimaginable",
+          "mentions": 11,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "God Will Do Something Unimaginable",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/28uchtdorf?lang=eng"
+            },
+            {
+              "title": "God among Us",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/12uchtdorf?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "practicing",
+          "mentions": 4,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "A Higher Joy",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/35uchtdorf?lang=eng"
+            },
+            {
+              "title": "Come and Belong",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/54uchtdorf?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "lift",
+          "mentions": 15,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "Our Heartfelt All",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/57uchtdorf?lang=eng"
+            },
+            {
+              "title": "Daily Restoration",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/41uchtdorf?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "normal",
+          "mentions": 7,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "God Will Do Something Unimaginable",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/28uchtdorf?lang=eng"
+            },
+            {
+              "title": "“By This All Will Know That You Are My Disciples”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/27uchtdorf?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "fact",
+          "mentions": 11,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "A Higher Joy",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/35uchtdorf?lang=eng"
+            },
+            {
+              "title": "Daily Restoration",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/41uchtdorf?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "friends",
+          "mentions": 27,
+          "talk_count": 12,
+          "examples": [
+            {
+              "title": "The Prodigal and the Road That Leads Home",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/45uchtdorf?lang=eng"
+            },
+            {
+              "title": "Jesus Christ Is the Strength of Youth",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/12uchtdorf?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elder Gary E. Stevenson",
+      "talk_count": 12,
+      "themes": [
+        {
+          "term": "lesa",
+          "mentions": 13,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "And We Talk of Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/31stevenson?lang=eng"
+            },
+            {
+              "title": "The Greatest Easter Story Ever Told",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/11stevenson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "bridge",
+          "mentions": 28,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Bridging the Two Great Commandments",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/53stevenson?lang=eng"
+            },
+            {
+              "title": "Blessed Are the Peacemakers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/12stevenson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "media",
+          "mentions": 11,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "Love, Share, Invite",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/43stevenson?lang=eng"
+            },
+            {
+              "title": "A Good Foundation against the Time to Come",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/28stevenson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "easter",
+          "mentions": 60,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "The Greatest Easter Story Ever Told",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/11stevenson?lang=eng"
+            },
+            {
+              "title": "And We Talk of Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/31stevenson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "events",
+          "mentions": 18,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "And We Talk of Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/31stevenson?lang=eng"
+            },
+            {
+              "title": "Days Never to Be Forgotten",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/44stevenson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "social",
+          "mentions": 13,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "Love, Share, Invite",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/43stevenson?lang=eng"
+            },
+            {
+              "title": "A Good Foundation against the Time to Come",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/28stevenson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "temple",
+          "mentions": 82,
+          "talk_count": 10,
+          "examples": [
+            {
+              "title": "A Good Foundation against the Time to Come",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/28stevenson?lang=eng"
+            },
+            {
+              "title": "Highly Favored of the Lord",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/53stevenson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "suspension",
+          "mentions": 8,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Bridging the Two Great Commandments",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/53stevenson?lang=eng"
+            },
+            {
+              "title": "Highly Favored of the Lord",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/53stevenson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "formal",
+          "mentions": 5,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "Nourishing and Bearing Your Testimony",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/55stevenson?lang=eng"
+            },
+            {
+              "title": "Days Never to Be Forgotten",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/44stevenson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "shared",
+          "mentions": 18,
+          "talk_count": 11,
+          "examples": [
+            {
+              "title": "Love, Share, Invite",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/43stevenson?lang=eng"
+            },
+            {
+              "title": "Promptings of the Spirit",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/25stevenson?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elder Gerrit W. Gong",
+      "talk_count": 12,
+      "themes": [
+        {
+          "term": "gong",
+          "mentions": 28,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Holiness to the Lord in Everyday Life",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/31gong?lang=eng"
+            },
+            {
+              "title": "We Each Have a Story",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/26gong?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "inn",
+          "mentions": 22,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Room in the Inn",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/16gong?lang=eng"
+            },
+            {
+              "title": "No One Sits Alone",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/25gong?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "chinese",
+          "mentions": 8,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "No One Sits Alone",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/25gong?lang=eng"
+            },
+            {
+              "title": "All Things for Our Good",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/25gong?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "belonging",
+          "mentions": 15,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Love Is Spoken Here",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/54gong?lang=eng"
+            },
+            {
+              "title": "No One Sits Alone",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/25gong?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "authentic",
+          "mentions": 6,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "No One Sits Alone",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/25gong?lang=eng"
+            },
+            {
+              "title": "All Nations, Kindreds, and Tongues",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/24gong?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "easter",
+          "mentions": 26,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Hosanna and Hallelujah—The Living Jesus Christ: The Heart of Restoration and Easter",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/31gong?lang=eng"
+            },
+            {
+              "title": "Eternity’s Great Gifts: Jesus Christ’s Atonement, Resurrection, Restoration",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/45gong?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "relationships",
+          "mentions": 20,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "Happy and Forever",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/43gong?lang=eng"
+            },
+            {
+              "title": "We Each Have a Story",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/26gong?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "generations",
+          "mentions": 16,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "We Each Have a Story",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/26gong?lang=eng"
+            },
+            {
+              "title": "Room in the Inn",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/16gong?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "branches",
+          "mentions": 10,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Ministering",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/14gong?lang=eng"
+            },
+            {
+              "title": "We Each Have a Story",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/26gong?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "hallelujah",
+          "mentions": 10,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Hosanna and Hallelujah—The Living Jesus Christ: The Heart of Restoration and Easter",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/31gong?lang=eng"
+            },
+            {
+              "title": "All Things for Our Good",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/25gong?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elder Jeffrey R. Holland",
+      "talk_count": 7,
+      "themes": [
+        {
+          "term": "cross",
+          "mentions": 16,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "Lifted Up upon the Cross",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/41holland?lang=eng"
+            },
+            {
+              "title": "The Greatest Possession",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/12holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "christianity",
+          "mentions": 5,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Lifted Up upon the Cross",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/41holland?lang=eng"
+            },
+            {
+              "title": "Waiting on the Lord",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/57holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "human",
+          "mentions": 8,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Not as the World Giveth",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/23holland?lang=eng"
+            },
+            {
+              "title": "Lifted Up upon the Cross",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/41holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "regarding",
+          "mentions": 6,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "And Now I See",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/41holland?lang=eng"
+            },
+            {
+              "title": "A Perfect Brightness of Hope",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/43holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "redeeming",
+          "mentions": 6,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "And Now I See",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/41holland?lang=eng"
+            },
+            {
+              "title": "Fear Not: Believe Only!",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/23holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "trouble",
+          "mentions": 6,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "Not as the World Giveth",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/23holland?lang=eng"
+            },
+            {
+              "title": "Fear Not: Believe Only!",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/23holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "century",
+          "mentions": 5,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "A Perfect Brightness of Hope",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/43holland?lang=eng"
+            },
+            {
+              "title": "Waiting on the Lord",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/57holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "biblical",
+          "mentions": 4,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "A Perfect Brightness of Hope",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/43holland?lang=eng"
+            },
+            {
+              "title": "Fear Not: Believe Only!",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/23holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "evidence",
+          "mentions": 9,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "And Now I See",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/41holland?lang=eng"
+            },
+            {
+              "title": "A Perfect Brightness of Hope",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/43holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "spite",
+          "mentions": 4,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Not as the World Giveth",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/23holland?lang=eng"
+            },
+            {
+              "title": "A Perfect Brightness of Hope",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/43holland?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elder Neil L. Andersen",
+      "talk_count": 12,
+      "themes": [
+        {
+          "term": "kathy",
+          "mentions": 11,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Tithing: Opening the Windows of Heaven",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/22andersen?lang=eng"
+            },
+            {
+              "title": "Temples, Houses of the Lord Dotting the Earth",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/55andersen?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "baby",
+          "mentions": 20,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Cherishing Life",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/21andersen?lang=eng"
+            },
+            {
+              "title": "The Personal Journey of a Child of God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/26andersen?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "eagerly",
+          "mentions": 8,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Temples, Houses of the Lord Dotting the Earth",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/55andersen?lang=eng"
+            },
+            {
+              "title": "Drawing Closer to the Savior",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/35andersen?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "across",
+          "mentions": 18,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "Tithing: Opening the Windows of Heaven",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/22andersen?lang=eng"
+            },
+            {
+              "title": "Temples, Houses of the Lord Dotting the Earth",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/55andersen?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "approval",
+          "mentions": 6,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "The Atoning Love of Jesus Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/35andersen?lang=eng"
+            },
+            {
+              "title": "Temples, Houses of the Lord Dotting the Earth",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/55andersen?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "abortion",
+          "mentions": 8,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Cherishing Life",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/21andersen?lang=eng"
+            },
+            {
+              "title": "The Personal Journey of a Child of God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/26andersen?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "decades",
+          "mentions": 7,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "We Talk of Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/45andersen?lang=eng"
+            },
+            {
+              "title": "Cherishing Life",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/21andersen?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "spoke",
+          "mentions": 14,
+          "talk_count": 10,
+          "examples": [
+            {
+              "title": "Following Jesus: Being a Peacemaker",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/15andersen?lang=eng"
+            },
+            {
+              "title": "Temples, Houses of the Lord Dotting the Earth",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/55andersen?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "angels",
+          "mentions": 18,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Temples, Houses of the Lord Dotting the Earth",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/55andersen?lang=eng"
+            },
+            {
+              "title": "We Talk of Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/45andersen?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "disbelief",
+          "mentions": 4,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "Following Jesus: Being a Peacemaker",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/15andersen?lang=eng"
+            },
+            {
+              "title": "Temples, Houses of the Lord Dotting the Earth",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/55andersen?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elder Patrick Kearon",
+      "talk_count": 5,
+      "themes": [
+        {
+          "term": "saviour",
+          "mentions": 25,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "Welcome to the Church of Joy",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/24kearon?lang=eng"
+            },
+            {
+              "title": "Jesus Christ and Your New Beginning",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/31kearon?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "gift",
+          "mentions": 55,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Receive His Gift",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/55kearon?lang=eng"
+            },
+            {
+              "title": "Welcome to the Church of Joy",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/24kearon?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "fresh",
+          "mentions": 8,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Jesus Christ and Your New Beginning",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/31kearon?lang=eng"
+            },
+            {
+              "title": "He Is Risen with Healing in His Wings:",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/24kearon?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "roadblock",
+          "mentions": 5,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "God’s Intent Is to Bring You Home",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/45kearon?lang=eng"
+            },
+            {
+              "title": "Jesus Christ and Your New Beginning",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/31kearon?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "giving",
+          "mentions": 9,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "Receive His Gift",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/55kearon?lang=eng"
+            },
+            {
+              "title": "Jesus Christ and Your New Beginning",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/31kearon?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "goodness",
+          "mentions": 11,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Jesus Christ and Your New Beginning",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/31kearon?lang=eng"
+            },
+            {
+              "title": "He Is Risen with Healing in His Wings:",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/24kearon?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "mercy",
+          "mentions": 13,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "God’s Intent Is to Bring You Home",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/45kearon?lang=eng"
+            },
+            {
+              "title": "Jesus Christ and Your New Beginning",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/31kearon?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "new",
+          "mentions": 50,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Jesus Christ and Your New Beginning",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/31kearon?lang=eng"
+            },
+            {
+              "title": "Receive His Gift",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/55kearon?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "barrier",
+          "mentions": 3,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "God’s Intent Is to Bring You Home",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/45kearon?lang=eng"
+            },
+            {
+              "title": "He Is Risen with Healing in His Wings:",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/24kearon?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "cars",
+          "mentions": 4,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "God’s Intent Is to Bring You Home",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/45kearon?lang=eng"
+            },
+            {
+              "title": "Receive His Gift",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/55kearon?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elder Quentin L. Cook",
+      "talk_count": 12,
+      "themes": [
+        {
+          "term": "seminal",
+          "mentions": 6,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "The Blessing of Continuing Revelation to Prophets and Personal Revelation to Guide Our Lives",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/52cook?lang=eng"
+            },
+            {
+              "title": "Be One with Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/27cook?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "missouri",
+          "mentions": 9,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Hearts Knit in Righteousness and Unity",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/15cook?lang=eng"
+            },
+            {
+              "title": "Personal Peace in Challenging Times",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/46cook?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "converts",
+          "mentions": 14,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "The Lord Is Hastening His Work",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/27cook?lang=eng"
+            },
+            {
+              "title": "Sacred Scriptures—the Foundations of Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/54cook?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "kimball",
+          "mentions": 16,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Be True to God and His Work",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/57cook?lang=eng"
+            },
+            {
+              "title": "Be One with Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/27cook?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "addition",
+          "mentions": 11,
+          "talk_count": 9,
+          "examples": [
+            {
+              "title": "Be True to God and His Work",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/57cook?lang=eng"
+            },
+            {
+              "title": "Bishops—Shepherds over the Lord’s Flock",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/31cook?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "significant",
+          "mentions": 21,
+          "talk_count": 10,
+          "examples": [
+            {
+              "title": "Sacred Scriptures—the Foundations of Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/54cook?lang=eng"
+            },
+            {
+              "title": "Be One with Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/27cook?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "preface",
+          "mentions": 5,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "Conversion to the Will of God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/29cook?lang=eng"
+            },
+            {
+              "title": "Be Peaceable Followers of Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/44cook?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "righteousness",
+          "mentions": 25,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "Hearts Knit in Righteousness and Unity",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/15cook?lang=eng"
+            },
+            {
+              "title": "Personal Peace in Challenging Times",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/46cook?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "significance",
+          "mentions": 12,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Sacred Scriptures—the Foundations of Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/54cook?lang=eng"
+            },
+            {
+              "title": "Be One with Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/27cook?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "emphasized",
+          "mentions": 10,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Be Peaceable Followers of Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/44cook?lang=eng"
+            },
+            {
+              "title": "Sacred Scriptures—the Foundations of Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/54cook?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elder Ronald A. Rasband",
+      "talk_count": 11,
+      "themes": [
+        {
+          "term": "rasband",
+          "mentions": 12,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "How Great Will Be Your Joy",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/28rasband?lang=eng"
+            },
+            {
+              "title": "“Behold! I Am a God of Miracles”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/52rasband?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "proclamation",
+          "mentions": 31,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "The Family Proclamation—Words from God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/21rasband?lang=eng"
+            },
+            {
+              "title": "The Things of My Soul",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/26rasband?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "design",
+          "mentions": 7,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Fulfillment of Prophecy",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/41rasband?lang=eng"
+            },
+            {
+              "title": "Hosanna to the Most High God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/53rasband?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "hands",
+          "mentions": 23,
+          "talk_count": 9,
+          "examples": [
+            {
+              "title": "Hosanna to the Most High God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/53rasband?lang=eng"
+            },
+            {
+              "title": "“Behold I Am the Light Which Ye Shall Hold Up”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/53rasband?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "soul",
+          "mentions": 28,
+          "talk_count": 11,
+          "examples": [
+            {
+              "title": "The Things of My Soul",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/26rasband?lang=eng"
+            },
+            {
+              "title": "Words Matter",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/41rasband?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "twelve",
+          "mentions": 11,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "The Family Proclamation—Words from God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/21rasband?lang=eng"
+            },
+            {
+              "title": "“Behold I Am the Light Which Ye Shall Hold Up”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/53rasband?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "religion",
+          "mentions": 12,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "To Heal the World",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/45rasband?lang=eng"
+            },
+            {
+              "title": "Fulfillment of Prophecy",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/41rasband?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "seven",
+          "mentions": 9,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "The Things of My Soul",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/26rasband?lang=eng"
+            },
+            {
+              "title": "How Great Will Be Your Joy",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/28rasband?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "broadcast",
+          "mentions": 8,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "“Behold! I Am a God of Miracles”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/52rasband?lang=eng"
+            },
+            {
+              "title": "Words Matter",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/41rasband?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "stand",
+          "mentions": 15,
+          "talk_count": 9,
+          "examples": [
+            {
+              "title": "Fulfillment of Prophecy",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/41rasband?lang=eng"
+            },
+            {
+              "title": "Hosanna to the Most High God",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/53rasband?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elder Ulisses Soares",
+      "talk_count": 12,
+      "themes": [
+        {
+          "term": "attitude",
+          "mentions": 14,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "The Savior’s Abiding Compassion",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/14soares?lang=eng"
+            },
+            {
+              "title": "Adorned with the Virtue of Temperance",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/43soares?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "meekness",
+          "mentions": 10,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "In Partnership with the Lord",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/25soares?lang=eng"
+            },
+            {
+              "title": "Adorned with the Virtue of Temperance",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/43soares?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "incorporate",
+          "mentions": 7,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "In Awe of Christ and His Gospel",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/55soares?lang=eng"
+            },
+            {
+              "title": "The Savior’s Abiding Compassion",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/14soares?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "furthermore",
+          "mentions": 6,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Jesus Christ: The Caregiver of Our Soul",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/41soares?lang=eng"
+            },
+            {
+              "title": "Adorned with the Virtue of Temperance",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/43soares?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "considering",
+          "mentions": 8,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Aligning Our Will with His",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/28soares?lang=eng"
+            },
+            {
+              "title": "The Savior’s Abiding Compassion",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/14soares?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "instruments",
+          "mentions": 6,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "The Savior’s Abiding Compassion",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/14soares?lang=eng"
+            },
+            {
+              "title": "Adorned with the Virtue of Temperance",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/43soares?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "assure",
+          "mentions": 8,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Jesus Christ: The Caregiver of Our Soul",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/41soares?lang=eng"
+            },
+            {
+              "title": "Seek Christ in Every Thought",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/43soares?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "exemplified",
+          "mentions": 6,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Aligning Our Will with His",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/28soares?lang=eng"
+            },
+            {
+              "title": "Brothers and Sisters in Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/34soares?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "enemy",
+          "mentions": 12,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Seek Christ in Every Thought",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/43soares?lang=eng"
+            },
+            {
+              "title": "Followers of the Prince of Peace",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/43soares?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "attributes",
+          "mentions": 13,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Followers of the Prince of Peace",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/43soares?lang=eng"
+            },
+            {
+              "title": "In Partnership with the Lord",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/25soares?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Presented by Jared B. Larson",
+      "talk_count": 5,
+      "themes": [
+        {
+          "term": "auditing",
+          "mentions": 15,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Church Auditing Department Report, 2020",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/22larson?lang=eng"
+            },
+            {
+              "title": "Church Auditing Department Report, 2021",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/22larson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "budgets",
+          "mentions": 10,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Church Auditing Department Report, 2020",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/22larson?lang=eng"
+            },
+            {
+              "title": "Church Auditing Department Report, 2021",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/22larson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "audits",
+          "mentions": 10,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Church Auditing Department Report, 2020",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/22larson?lang=eng"
+            },
+            {
+              "title": "Church Auditing Department Report, 2021",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/22larson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "expenditures",
+          "mentions": 10,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Church Auditing Department Report, 2020",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/22larson?lang=eng"
+            },
+            {
+              "title": "Church Auditing Department Report, 2021",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/22larson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "entities",
+          "mentions": 10,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Church Auditing Department Report, 2020",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/22larson?lang=eng"
+            },
+            {
+              "title": "Church Auditing Department Report, 2021",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/22larson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "assets",
+          "mentions": 10,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Church Auditing Department Report, 2020",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/22larson?lang=eng"
+            },
+            {
+              "title": "Church Auditing Department Report, 2021",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/22larson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "policies",
+          "mentions": 10,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Church Auditing Department Report, 2020",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/22larson?lang=eng"
+            },
+            {
+              "title": "Church Auditing Department Report, 2021",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/22larson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "accordance",
+          "mentions": 10,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Church Auditing Department Report, 2020",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/22larson?lang=eng"
+            },
+            {
+              "title": "Church Auditing Department Report, 2021",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/22larson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "larson",
+          "mentions": 5,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Church Auditing Department Report, 2020",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/22larson?lang=eng"
+            },
+            {
+              "title": "Church Auditing Department Report, 2021",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/22larson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "jared",
+          "mentions": 5,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Church Auditing Department Report, 2020",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/22larson?lang=eng"
+            },
+            {
+              "title": "Church Auditing Department Report, 2021",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/22larson?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Presented by President Dallin H. Oaks",
+      "talk_count": 6,
+      "themes": [
+        {
+          "term": "seventies",
+          "mentions": 42,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/21oaks?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/11oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "michael",
+          "mentions": 20,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/21oaks?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/11oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "proposed",
+          "mentions": 51,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/21oaks?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/21oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "favor",
+          "mentions": 53,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/21oaks?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/21oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "counselor",
+          "mentions": 42,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/21oaks?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/21oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "opposed",
+          "mentions": 48,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/21oaks?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/21oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "carlos",
+          "mentions": 13,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/21oaks?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/21oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "august",
+          "mentions": 22,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/11oaks?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/11oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "steven",
+          "mentions": 10,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/11oaks?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/21oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "signify",
+          "mentions": 12,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/21oaks?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/21oaks?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Presented by President Henry B. Eyring",
+      "talk_count": 5,
+      "themes": [
+        {
+          "term": "seventies",
+          "mentions": 32,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/21eyring?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/21eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "proposed",
+          "mentions": 28,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/21eyring?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/21eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "favor",
+          "mentions": 31,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/21eyring?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/21eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "opposed",
+          "mentions": 26,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/21eyring?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/21eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "counselor",
+          "mentions": 12,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/21eyring?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/21eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "bennion",
+          "mentions": 5,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/21eyring?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/21eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "officers",
+          "mentions": 10,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/21eyring?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/21eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "vote",
+          "mentions": 6,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/21eyring?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/21eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "uplifted",
+          "mentions": 6,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/21eyring?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/21eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "authorities",
+          "mentions": 10,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/21eyring?lang=eng"
+            },
+            {
+              "title": "Sustaining of General Authorities, Area Seventies, and General Officers",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/21eyring?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "President Dallin H. Oaks",
+      "talk_count": 17,
+      "themes": [
+        {
+          "term": "persons",
+          "mentions": 19,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "Covenants and Responsibilities",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/47oaks?lang=eng"
+            },
+            {
+              "title": "The Need for a Church",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/18oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "policies",
+          "mentions": 12,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Divine Love in the Father’s Plan",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/51oaks?lang=eng"
+            },
+            {
+              "title": "Love Your Enemies",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/17oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "laws",
+          "mentions": 30,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Love Your Enemies",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/17oaks?lang=eng"
+            },
+            {
+              "title": "Kingdoms of Glory",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/17oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "constitution",
+          "mentions": 36,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Defending Our Divinely Inspired Constitution",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/51oaks?lang=eng"
+            },
+            {
+              "title": "Love Your Enemies",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/17oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "mortal",
+          "mentions": 62,
+          "talk_count": 11,
+          "examples": [
+            {
+              "title": "The Great Plan",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/51oaks?lang=eng"
+            },
+            {
+              "title": "What Has Our Savior Done for Us?",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/35oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "modern",
+          "mentions": 18,
+          "talk_count": 9,
+          "examples": [
+            {
+              "title": "Kingdoms of Glory",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/17oaks?lang=eng"
+            },
+            {
+              "title": "Divine Love in the Father’s Plan",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/51oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "law",
+          "mentions": 31,
+          "talk_count": 9,
+          "examples": [
+            {
+              "title": "Love Your Enemies",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/17oaks?lang=eng"
+            },
+            {
+              "title": "Divine Love in the Father’s Plan",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/51oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "doctrine",
+          "mentions": 83,
+          "talk_count": 15,
+          "examples": [
+            {
+              "title": "Be of Good Cheer",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/36oaks?lang=eng"
+            },
+            {
+              "title": "Divine Love in the Father’s Plan",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/51oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "states",
+          "mentions": 34,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Defending Our Divinely Inspired Constitution",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/51oaks?lang=eng"
+            },
+            {
+              "title": "Love Your Enemies",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/17oaks?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "affirm",
+          "mentions": 7,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Covenants and Responsibilities",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/47oaks?lang=eng"
+            },
+            {
+              "title": "Divine Love in the Father’s Plan",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/51oaks?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "President Henry B. Eyring",
+      "talk_count": 14,
+      "themes": [
+        {
+          "term": "hal",
+          "mentions": 6,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "All Will Be Well Because of Temple Covenants",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/18eyring?lang=eng"
+            },
+            {
+              "title": "Tested, Proved, and Polished",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/51eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "servants",
+          "mentions": 16,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "Bless in His Name",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/34eyring?lang=eng"
+            },
+            {
+              "title": "Steady in the Storms",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/18eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "qualify",
+          "mentions": 10,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Finding Personal Peace",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/17eyring?lang=eng"
+            },
+            {
+              "title": "Legacy of Encouragement",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/51eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "ghost",
+          "mentions": 47,
+          "talk_count": 13,
+          "examples": [
+            {
+              "title": "Our Constant Companion",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/47eyring?lang=eng"
+            },
+            {
+              "title": "Simple Is the Doctrine of Jesus Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/47eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "evil",
+          "mentions": 12,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "Legacy of Encouragement",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/51eyring?lang=eng"
+            },
+            {
+              "title": "Steady in the Storms",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/18eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "shall",
+          "mentions": 86,
+          "talk_count": 13,
+          "examples": [
+            {
+              "title": "Sisters in Zion",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/35eyring?lang=eng"
+            },
+            {
+              "title": "Tested, Proved, and Polished",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/51eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "ahead",
+          "mentions": 10,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Our Constant Companion",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/47eyring?lang=eng"
+            },
+            {
+              "title": "Steady in the Storms",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/18eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "priesthood",
+          "mentions": 33,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Bless in His Name",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/34eyring?lang=eng"
+            },
+            {
+              "title": "Prayers of Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/17eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "described",
+          "mentions": 11,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "Prayers of Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/17eyring?lang=eng"
+            },
+            {
+              "title": "Simple Is the Doctrine of Jesus Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/47eyring?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "keys",
+          "mentions": 11,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "He Goes before Us",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/35eyring?lang=eng"
+            },
+            {
+              "title": "Bless in His Name",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/34eyring?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "President Jeffrey R. Holland",
+      "talk_count": 3,
+      "themes": [
+        {
+          "term": "characterize",
+          "mentions": 2,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "As a Little Child",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/13holland?lang=eng"
+            },
+            {
+              "title": "“I Am He”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/41holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "purity",
+          "mentions": 4,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "As a Little Child",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/13holland?lang=eng"
+            },
+            {
+              "title": "Motions of a Hidden Fire",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/13holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "responds",
+          "mentions": 2,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "As a Little Child",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/13holland?lang=eng"
+            },
+            {
+              "title": "Motions of a Hidden Fire",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/13holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "hardest",
+          "mentions": 2,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "As a Little Child",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/13holland?lang=eng"
+            },
+            {
+              "title": "“I Am He”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/41holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "pure",
+          "mentions": 5,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "As a Little Child",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/13holland?lang=eng"
+            },
+            {
+              "title": "Motions of a Hidden Fire",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/13holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "bear",
+          "mentions": 8,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "As a Little Child",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/13holland?lang=eng"
+            },
+            {
+              "title": "Motions of a Hidden Fire",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/13holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "apostolic",
+          "mentions": 2,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Motions of a Hidden Fire",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/13holland?lang=eng"
+            },
+            {
+              "title": "“I Am He”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/41holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "prayers",
+          "mentions": 12,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Motions of a Hidden Fire",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/13holland?lang=eng"
+            },
+            {
+              "title": "As a Little Child",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/13holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "priesthood",
+          "mentions": 6,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "As a Little Child",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/13holland?lang=eng"
+            },
+            {
+              "title": "Motions of a Hidden Fire",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/13holland?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "loyalty",
+          "mentions": 2,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "As a Little Child",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/04/13holland?lang=eng"
+            },
+            {
+              "title": "“I Am He”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/41holland?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "President M. Russell Ballard",
+      "talk_count": 8,
+      "themes": [
+        {
+          "term": "barbara",
+          "mentions": 9,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Remember What Matters Most",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/52ballard?lang=eng"
+            },
+            {
+              "title": "Hope in Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/28ballard?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "watch",
+          "mentions": 6,
+          "talk_count": 5,
+          "examples": [
+            {
+              "title": "Watch Ye Therefore, and Pray Always",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/41ballard?lang=eng"
+            },
+            {
+              "title": "Follow Jesus Christ with Footsteps of Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/22ballard?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "morning",
+          "mentions": 14,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Praise to the Man",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/41ballard?lang=eng"
+            },
+            {
+              "title": "Missionary Service Blessed My Life Forever",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/12ballard?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "thank",
+          "mentions": 7,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Missionary Service Blessed My Life Forever",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/12ballard?lang=eng"
+            },
+            {
+              "title": "Follow Jesus Christ with Footsteps of Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/22ballard?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "prayer",
+          "mentions": 29,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Watch Ye Therefore, and Pray Always",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/41ballard?lang=eng"
+            },
+            {
+              "title": "Follow Jesus Christ with Footsteps of Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/22ballard?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "neighbors",
+          "mentions": 9,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "“Lovest Thou Me More Than These?”",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/31ballard?lang=eng"
+            },
+            {
+              "title": "Remember What Matters Most",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/52ballard?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "joseph",
+          "mentions": 64,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "Shall We Not Go On in So Great a Cause?",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/12ballard?lang=eng"
+            },
+            {
+              "title": "Praise to the Man",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/41ballard?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "serve",
+          "mentions": 31,
+          "talk_count": 7,
+          "examples": [
+            {
+              "title": "Missionary Service Blessed My Life Forever",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/12ballard?lang=eng"
+            },
+            {
+              "title": "Hope in Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/28ballard?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "women",
+          "mentions": 12,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Missionary Service Blessed My Life Forever",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/12ballard?lang=eng"
+            },
+            {
+              "title": "Shall We Not Go On in So Great a Cause?",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/12ballard?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "opened",
+          "mentions": 8,
+          "talk_count": 4,
+          "examples": [
+            {
+              "title": "Follow Jesus Christ with Footsteps of Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/22ballard?lang=eng"
+            },
+            {
+              "title": "Praise to the Man",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/41ballard?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "President Russell M. Nelson",
+      "talk_count": 27,
+      "themes": [
+        {
+          "term": "announce",
+          "mentions": 15,
+          "talk_count": 12,
+          "examples": [
+            {
+              "title": "Focus on the Temple",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/58nelson?lang=eng"
+            },
+            {
+              "title": "Go Forward in Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/57nelson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "locations",
+          "mentions": 13,
+          "talk_count": 11,
+          "examples": [
+            {
+              "title": "Focus on the Temple",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/58nelson?lang=eng"
+            },
+            {
+              "title": "Go Forward in Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/57nelson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "temples",
+          "mentions": 54,
+          "talk_count": 16,
+          "examples": [
+            {
+              "title": "COVID-19 and Temples",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/57nelson?lang=eng"
+            },
+            {
+              "title": "Go Forward in Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/57nelson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "plans",
+          "mentions": 12,
+          "talk_count": 11,
+          "examples": [
+            {
+              "title": "Go Forward in Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/57nelson?lang=eng"
+            },
+            {
+              "title": "A New Normal",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/58nelson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "plead",
+          "mentions": 19,
+          "talk_count": 12,
+          "examples": [
+            {
+              "title": "Let God Prevail",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/46nelson?lang=eng"
+            },
+            {
+              "title": "The Power of Spiritual Momentum",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/47nelson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "messages",
+          "mentions": 19,
+          "talk_count": 12,
+          "examples": [
+            {
+              "title": "Opening Message",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/11nelson?lang=eng"
+            },
+            {
+              "title": "Hear Him",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "brazil",
+          "mentions": 13,
+          "talk_count": 9,
+          "examples": [
+            {
+              "title": "Focus on the Temple",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/58nelson?lang=eng"
+            },
+            {
+              "title": "Now Is the Time",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/58nelson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "pandemic",
+          "mentions": 27,
+          "talk_count": 12,
+          "examples": [
+            {
+              "title": "What We Are Learning and Will Never Forget",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/36nelson?lang=eng"
+            },
+            {
+              "title": "Opening the Heavens for Help",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/37nelson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "mexico",
+          "mentions": 12,
+          "talk_count": 8,
+          "examples": [
+            {
+              "title": "COVID-19 and Temples",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/57nelson?lang=eng"
+            },
+            {
+              "title": "Now Is the Time",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/58nelson?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "republic",
+          "mentions": 10,
+          "talk_count": 6,
+          "examples": [
+            {
+              "title": "Go Forward in Faith",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/57nelson?lang=eng"
+            },
+            {
+              "title": "COVID-19 and Temples",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/57nelson?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sister J. Anette Dennis",
+      "talk_count": 3,
+      "themes": [
+        {
+          "term": "symbolic",
+          "mentions": 9,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Put Ye On the Lord Jesus Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/14dennis?lang=eng"
+            },
+            {
+              "title": "Cheering Each Other On",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/32dennis?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "race",
+          "mentions": 10,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Cheering Each Other On",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/32dennis?lang=eng"
+            },
+            {
+              "title": "His Yoke Is Easy and His Burden Is Light",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/42dennis?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "judge",
+          "mentions": 11,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Cheering Each Other On",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/32dennis?lang=eng"
+            },
+            {
+              "title": "His Yoke Is Easy and His Burden Is Light",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/42dennis?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "talks",
+          "mentions": 4,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Put Ye On the Lord Jesus Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/14dennis?lang=eng"
+            },
+            {
+              "title": "His Yoke Is Easy and His Burden Is Light",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/42dennis?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "hidden",
+          "mentions": 4,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Cheering Each Other On",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/32dennis?lang=eng"
+            },
+            {
+              "title": "His Yoke Is Easy and His Burden Is Light",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/42dennis?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "charity",
+          "mentions": 9,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "His Yoke Is Easy and His Burden Is Light",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/42dennis?lang=eng"
+            },
+            {
+              "title": "Cheering Each Other On",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/32dennis?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "relationship",
+          "mentions": 17,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Put Ye On the Lord Jesus Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/14dennis?lang=eng"
+            },
+            {
+              "title": "His Yoke Is Easy and His Burden Is Light",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/42dennis?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "fully",
+          "mentions": 10,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Cheering Each Other On",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/32dennis?lang=eng"
+            },
+            {
+              "title": "His Yoke Is Easy and His Burden Is Light",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/42dennis?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "eventually",
+          "mentions": 5,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "His Yoke Is Easy and His Burden Is Light",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/42dennis?lang=eng"
+            },
+            {
+              "title": "Put Ye On the Lord Jesus Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/14dennis?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "mold",
+          "mentions": 2,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Cheering Each Other On",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/32dennis?lang=eng"
+            },
+            {
+              "title": "Put Ye On the Lord Jesus Christ",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/14dennis?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sister Tracy Y. Browning",
+      "talk_count": 3,
+      "themes": [
+        {
+          "term": "law",
+          "mentions": 11,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Seeing More of Jesus Christ in Our Lives",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/13browning?lang=eng"
+            },
+            {
+              "title": "Seeking Answers to Spiritual Questions",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/42browning?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "primary",
+          "mentions": 22,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Tune Your Heart to Jesus Christ: The Sacred Gift of Primary Music",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/13browning?lang=eng"
+            },
+            {
+              "title": "Seeking Answers to Spiritual Questions",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/42browning?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "adherence",
+          "mentions": 2,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Seeing More of Jesus Christ in Our Lives",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/13browning?lang=eng"
+            },
+            {
+              "title": "Seeking Answers to Spiritual Questions",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/42browning?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "understanding",
+          "mentions": 19,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Seeking Answers to Spiritual Questions",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/42browning?lang=eng"
+            },
+            {
+              "title": "Seeing More of Jesus Christ in Our Lives",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/13browning?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "laws",
+          "mentions": 7,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Seeking Answers to Spiritual Questions",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/42browning?lang=eng"
+            },
+            {
+              "title": "Seeing More of Jesus Christ in Our Lives",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/13browning?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "mount",
+          "mentions": 3,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Seeing More of Jesus Christ in Our Lives",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/13browning?lang=eng"
+            },
+            {
+              "title": "Seeking Answers to Spiritual Questions",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/42browning?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "questions",
+          "mentions": 10,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Seeking Answers to Spiritual Questions",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/42browning?lang=eng"
+            },
+            {
+              "title": "Seeing More of Jesus Christ in Our Lives",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/13browning?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "discernment",
+          "mentions": 2,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Seeing More of Jesus Christ in Our Lives",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/13browning?lang=eng"
+            },
+            {
+              "title": "Seeking Answers to Spiritual Questions",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/42browning?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "sacred",
+          "mentions": 18,
+          "talk_count": 3,
+          "examples": [
+            {
+              "title": "Tune Your Heart to Jesus Christ: The Sacred Gift of Primary Music",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/13browning?lang=eng"
+            },
+            {
+              "title": "Seeking Answers to Spiritual Questions",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/42browning?lang=eng"
+            }
+          ]
+        },
+        {
+          "term": "decades",
+          "mentions": 3,
+          "talk_count": 2,
+          "examples": [
+            {
+              "title": "Seeking Answers to Spiritual Questions",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2024/10/42browning?lang=eng"
+            },
+            {
+              "title": "Tune Your Heart to Jesus Christ: The Sacred Gift of Primary Music",
+              "url": "https://www.churchofjesuschrist.org/study/general-conference/2025/10/13browning?lang=eng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

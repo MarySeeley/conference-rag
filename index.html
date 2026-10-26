@@ -132,6 +132,24 @@
                     </div>
                     <div class="search-results" id="rag-results"></div>
                 </div>
+
+                <!-- Custom Feature: Speaker Theme Explorer -->
+                <div class="search-panel panel-ready" id="themes-panel">
+                    <div class="panel-header">
+                        <h3>Speaker Theme Explorer</h3>
+                        <span class="status-badge ready">TF-IDF</span>
+                    </div>
+                    <p class="panel-description">Explore words that recur across a speaker's talks and are unusually
+                        distinctive compared with other speakers. Results are statistical patterns, not claims about
+                        the speaker's personal preferences.</p>
+                    <div class="panel-input">
+                        <select id="speaker-select" aria-label="Choose a conference speaker" disabled>
+                            <option value="">Loading speakers...</option>
+                        </select>
+                        <button id="themes-btn" class="btn-primary" disabled>Explore Themes</button>
+                    </div>
+                    <div class="search-results" id="themes-results"></div>
+                </div>
             </div>
         </div>
     </div>
