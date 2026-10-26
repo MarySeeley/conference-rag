@@ -1,0 +1,532 @@
+CONFERENCE RAG SESSION — EXPLICIT USER MESSAGES
+
+This file contains the verbatim user-authored messages available in the session context.
+It does not claim to contain assistant replies that were compacted out of the active context.
+
+======================================================================
+
+[User]
+Are you able to copy this github into the conference rag folder? I don't want to pull it from github, just to copy the files.
+
+[https://github.com/byu-cs-452/conference-rag/blob/main/README.md](https://github.com/byu-cs-452/conference-rag/blob/main/README.md)
+
+----------------------------------------------------------------------
+
+[User]
+My goal is to learn while doing this project. Read ai_agent_instructions.md and apply that to this session. By the time I am done I want to fully understand the learning objectives. Can you help me learn the basic concepts before we get started? Make sure to stop and ask me if I have questions.
+
+----------------------------------------------------------------------
+
+[User]
+Can you go into more detail on CORS? And other ways to avoid being hacked when creating a project?
+
+----------------------------------------------------------------------
+
+[User]
+So JWL is on the javascript side authenticating a user and RLS is authorizing a user. CORS is so that websites can't grab tokens across the internet, but it isn't totally septible to attacks
+
+----------------------------------------------------------------------
+
+[User]
+This makes sense to me, let's start stepping through the project. What is the first step?
+
+----------------------------------------------------------------------
+
+[User]
+here is the url:
+
+[https://github.com/MarySeeley/conference-rag](https://github.com/MarySeeley/conference-rag)
+
+----------------------------------------------------------------------
+
+[User]
+I ran those commands in the terminal
+
+----------------------------------------------------------------------
+
+[User]
+```
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+
+
+
+
+```
+
+----------------------------------------------------------------------
+
+[User]
+what doe those commands do? I have not run them yet
+
+----------------------------------------------------------------------
+
+[User]
+should i create a virtual environment? and how does that work?
+
+----------------------------------------------------------------------
+
+[User]
+So everything I do through the terminal until I call deactivate will be run on the virtual environment and not what is on my machine? What is the difference between Docker and a virtual environment?
+
+----------------------------------------------------------------------
+
+[User]
+yes
+
+----------------------------------------------------------------------
+
+[User]
+I ran the installs in venv
+
+----------------------------------------------------------------------
+
+[User]
+the two ignored entries showed
+
+----------------------------------------------------------------------
+
+[User]
+It pulls up, why is it free to host websites on github?
+
+----------------------------------------------------------------------
+
+[User]
+Yes, can you go onto the next steps of the assignment?
+
+----------------------------------------------------------------------
+
+[User]
+I created the project
+
+----------------------------------------------------------------------
+
+[User]
+is a publishable key the same thing as an anon key?
+
+----------------------------------------------------------------------
+
+[User]
+I have updated the files, what is the next step
+
+----------------------------------------------------------------------
+
+[User]
+For the account token what is the level of access it should have?
+
+----------------------------------------------------------------------
+
+[User]
+what about permissions for the token
+
+----------------------------------------------------------------------
+
+[User]
+under permissions for database I only see read-only, there is no read-write. Is that an automatic permission it gets?
+
+----------------------------------------------------------------------
+
+[User]
+so would the preset optoin of read-only be something I should choose. Or just the database read-only permision?
+
+----------------------------------------------------------------------
+
+[User]
+The database permision just has "read only" not "read", is that fine?
+
+----------------------------------------------------------------------
+
+[User]
+and put this value in access token?
+
+----------------------------------------------------------------------
+
+[User]
+Ok I added all the stuff
+
+----------------------------------------------------------------------
+
+[User]
+this is the warning I got: warning: in the working copy of 'config.public.json', LF will be replaced by CRLF the next time Git touches it
+M  config.public.json
+
+----------------------------------------------------------------------
+
+[User]
+what is the next step
+
+----------------------------------------------------------------------
+
+[User]
+The site now displays that I am logged in, but the features say not ready
+
+----------------------------------------------------------------------
+
+[User]
+So are we currently embedding sentences? what is the difference between sentences, paragraphs, and rolling views?
+
+----------------------------------------------------------------------
+
+[User]
+can you work through an example question using all three chunking methods?
+
+----------------------------------------------------------------------
+
+[User]
+If we embedded an entire 30 minute talk as one vector I would assume it would just grab the most prominant points. Would it also need a better way of embedding to get the things out of it that it needs to?
+
+----------------------------------------------------------------------
+
+[User]
+Yes that makes sense, what is the code I'm supposed to run for the next step?
+
+----------------------------------------------------------------------
+
+[User]
+it worked!
+
+----------------------------------------------------------------------
+
+[User]
+page_views: 0 visible rows
+sentence_embeddings: 0 visible rows
+
+----------------------------------------------------------------------
+
+[User]
+what is my website I am going to use again? And I need to be in a private window to test that it still captures a view when RSL doesn't work?
+
+----------------------------------------------------------------------
+
+[User]
+do i sign into the supabase with the magic link?
+
+----------------------------------------------------------------------
+
+[User]
+this is the response now:
+
+page_views: 3 visible rows
+sentence_embeddings: 0 visible rows
+
+----------------------------------------------------------------------
+
+[User]
+✅ Scraped 426 talks!
+   Years: 2020 – 2025
+   Output: scripts\output\talks.json
+
+this is the output
+
+----------------------------------------------------------------------
+
+[User]
+Success: 26,256
+
+   Total rows in database: 26,256
+
+----------------------------------------------------------------------
+
+[User]
+When searching faith some are sentences while other results are 2 or 3 sentences, why is that?
+
+----------------------------------------------------------------------
+
+[User]
+what is the next step?
+
+----------------------------------------------------------------------
+
+[User]
+what should it show when it is done? it currently says embedding: 100%
+
+----------------------------------------------------------------------
+
+[User]
+it finished successfully
+
+----------------------------------------------------------------------
+
+[User]
+✅ Import complete!
+   Success: 26,256
+Traceback (most recent call last):
+  File "C:\Users\marys\OneDrive\Documents\CS452\Canvas\ConferenceRag\scripts\05_update_embeddings.py", line 125, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\marys\OneDrive\Documents\CS452\Canvas\ConferenceRag\scripts\05_update_embeddings.py", line 112, in main
+    .not_('embedding', 'is', 'null') \
+     ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'SyncSelectRequestBuilder' object is not callable
+
+----------------------------------------------------------------------
+
+[User]
+can you go over what you fixed?
+
+----------------------------------------------------------------------
+
+[User]
+can you go on to the next step?
+
+----------------------------------------------------------------------
+
+[User]
+didn't I just run that above to help fix the error?
+
+----------------------------------------------------------------------
+
+[User]
+this is what I ran in the terminal from earlier:
+
+npm install supabase --save-dev
+npx supabase --version
+
+that looks like the exact same code you want me to run now, is there a difference?
+
+----------------------------------------------------------------------
+
+[User]
+(.venv) PS C:\Users\marys\OneDrive\Documents\CS452\Canvas\ConferenceRag> Get-Location
+
+Path                                                        
+----                                                        
+C:\Users\marys\OneDrive\Documents\CS452\Canvas\ConferenceRag
+
+
+(.venv) PS C:\Users\marys\OneDrive\Documents\CS452\Canvas\ConferenceRag> Test-Path package.json
+False
+(.venv) PS C:\Users\marys\OneDrive\Documents\CS452\Canvas\ConferenceRag> npx.cmd --no-install supabase --version
+2.122.0
+
+----------------------------------------------------------------------
+
+[User]
+yes what is the difference?
+
+----------------------------------------------------------------------
+
+[User]
+yes, lets go to the next step
+
+----------------------------------------------------------------------
+
+[User]
+Finished supabase init.\
+
+----------------------------------------------------------------------
+
+[User]
+I actually found where to change the database to read-write when I created my current token
+
+----------------------------------------------------------------------
+
+[User]
+so replace the token in the config.secrets?
+
+----------------------------------------------------------------------
+
+[User]
+I added it, what are the next steps
+
+----------------------------------------------------------------------
+
+[User]
+Authorization failed for the access token and project ref pair: {"message":"Your account does not have the necessary privileges to access this endpoint. For more details, refer to our documentation https://supabase.com/docs/guides/platform/access-control"}
+Try rerunning the command with --debug to troubleshoot the error.
+
+----------------------------------------------------------------------
+
+[User]
+Finished supabase link.
+
+----------------------------------------------------------------------
+
+[User]
+I ran it, do i need to put it in git ignore as well
+
+----------------------------------------------------------------------
+
+[User]
+nope lets get started
+
+----------------------------------------------------------------------
+
+[User]
+so cors is to make sure they are coming from the correct site and authentication makes sure they are an actual user from the site, right?
+
+----------------------------------------------------------------------
+
+[User]
+yes, what is the next step
+
+----------------------------------------------------------------------
+
+[User]
+it finished
+
+----------------------------------------------------------------------
+
+[User]
+I got this error: Error: Database search failed: canceling statement due to statement timeout
+
+----------------------------------------------------------------------
+
+[User]
+can you go over again what happened?
+
+----------------------------------------------------------------------
+
+[User]
+that makes sense, how long will it take for that to run in the terminal?
+
+----------------------------------------------------------------------
+
+[User]
+============================================================
+Creating Database Schema
+============================================================
+❌ Schema creation failed: 400
+{"message":"Failed to run sql query: ERROR:  57014: canceling statement due to statement timeout\n"}
+
+----------------------------------------------------------------------
+
+[User]
+IPv6 is not supported on your current network
+Run supabase link --project-ref oswapdvzhfuwyvndvyln to setup IPv4 connection.
+
+----------------------------------------------------------------------
+
+[User]
+the same thing happened, is that okay? 
+
+(.venv) PS C:\Users\marys\OneDrive\Documents\CS452\Canvas\ConferenceRag> npx.cmd supabase db push --linked --dry-run
+IPv6 is not supported on your current network
+Run supabase link --project-ref oswapdvzhfuwyvndvyln to setup IPv4 connection.
+
+----------------------------------------------------------------------
+
+[User]
+is my database password in my config.secret?
+
+----------------------------------------------------------------------
+
+[User]
+It returned False.
+
+Is what we are doing required for the project? Is there a simpler way to fiz this?
+
+----------------------------------------------------------------------
+
+[User]
+my code works, is there anything else i need to do for the project?
+
+----------------------------------------------------------------------
+
+[User]
+nope, lets go to the next step
+
+----------------------------------------------------------------------
+
+[User]
+Bundling Function: generate-answer
+Deploying Function: generate-answer (script size: 708 kB)
+Deployed Functions on project oswapdvzhfuwyvndvyln: generate-answer
+You can inspect your deployment in the Dashboard: https://supabase.com/dashboard/project/oswapdvzhfuwyvndvyln/functions
+
+----------------------------------------------------------------------
+
+[User]
+The AI questions are working
+
+[Image attached showing a working RAG query, generated answer, and source talks.]
+
+----------------------------------------------------------------------
+
+[User]
+I pushed it successfully
+
+----------------------------------------------------------------------
+
+[User]
+Could we create a feature that shows what speaker likes to talk the most about? Like I know Dieter F. Uchtdorf talks a lot about planes, it could be cool to see what others bring up in there talk
+
+----------------------------------------------------------------------
+
+[User]
+Nope, let's get started
+
+----------------------------------------------------------------------
+
+[User]
+It works! 
+
+----------------------------------------------------------------------
+
+[User]
+I pushed it
+
+----------------------------------------------------------------------
+
+[User]
+Real quick, is the reflection the same thing as the learning log I write on paper?
+
+----------------------------------------------------------------------
+
+[User]
+Let's continue to go over the five questions
+
+----------------------------------------------------------------------
+
+[User]
+Let's go onto question 2, don't give me a reflection, I'm going to write my own. Just teach me about the concepts
+
+----------------------------------------------------------------------
+
+[User]
+let's go to the next question
+
+----------------------------------------------------------------------
+
+[User]
+If you are looking for the exact phrase, you would use keyword search. Let's go to the next question
+
+----------------------------------------------------------------------
+
+[User]
+what is an example of a system that uses fine-tuning?
+
+----------------------------------------------------------------------
+
+[User]
+next question
+
+----------------------------------------------------------------------
+
+[User]
+Can you give me the instructions to push to git
+
+----------------------------------------------------------------------
+
+[User]
+If you use AI like I am here to make sure your website isn't  open for attacks. Does that cause a vunrebility risk?
+
+----------------------------------------------------------------------
+
+[User]
+Can you go over TF‑IDF and how it was used for the speaker word relevance?
+
+----------------------------------------------------------------------
+
+[User]
+how many conference talks are in the database?
+
+----------------------------------------------------------------------
+
+[User]
+Can you export the whole chat, don't summarize anything and save it as a text file
+
+----------------------------------------------------------------------
+
+[User]
+Could you export the transcript and just make sure you have what I asked explicitly?
